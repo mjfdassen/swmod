@@ -11,6 +11,7 @@ namespace torensvanhanoiopdr1
         static void Main(string[] args)
         {
             HanoiGame game = new HanoiGame(4);
+            Console.ReadKey();
         }
     }
 }
