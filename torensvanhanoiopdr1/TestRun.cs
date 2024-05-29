@@ -10,7 +10,7 @@ namespace torensvanhanoiopdr1
     {
         static void Main(string[] args)
         {
-            HanoiGame game = new HanoiGame(4);
+            HanoiGame game = new HanoiGame(20);
             Console.ReadKey();
         }
     }

@@ -41,6 +41,17 @@ namespace torensvanhanoiopdr1
                 return false;
             }
         }
+        public bool isEmpty()
+        {
+            if (mainPole.Count == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
         public void printPole()
         {
             while (!isEmpty(mainPole))
