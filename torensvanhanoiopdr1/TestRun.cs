@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace torensvanhanoiopdr1
 {
-    internal class Program
+    internal class TestRun
     {
         static void Main(string[] args)
         {
+            HanoiGame game = new HanoiGame(4);
         }
     }
 }

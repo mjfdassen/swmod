@@ -1,0 +1,7 @@
+C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\bin\Debug\torensvanhanoiopdr1.exe.config
+C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\bin\Debug\torensvanhanoiopdr1.exe
+C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\bin\Debug\torensvanhanoiopdr1.pdb
+C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.csproj.AssemblyReference.cache
+C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.csproj.CoreCompileInputs.cache
+C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.exe
+C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.pdb
