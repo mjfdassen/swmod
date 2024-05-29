@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Data\\Repositories\\swmod\\swmod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|c:\\data\\repositories\\swmod\\swmod\\torensvanhanoiopdr1\\hanoigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|solutionrelative:torensvanhanoiopdr1\\hanoigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|c:\\data\\repositories\\swmod\\swmod\\torensvanhanoiopdr1\\testrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|solutionrelative:torensvanhanoiopdr1\\testrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|c:\\data\\repositories\\swmod\\swmod\\torensvanhanoiopdr1\\hanoipole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|solutionrelative:torensvanhanoiopdr1\\hanoipole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|c:\\data\\repositories\\swmod\\swmod\\torensvanhanoiopdr1\\testrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|solutionrelative:torensvanhanoiopdr1\\testrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|c:\\data\\repositories\\swmod\\swmod\\torensvanhanoiopdr1\\hanoigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|solutionrelative:torensvanhanoiopdr1\\hanoigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|c:\\data\\repositories\\swmod\\swmod\\torensvanhanoiopdr1\\hanoidisc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|solutionrelative:torensvanhanoiopdr1\\hanoidisc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7093513A-1EB8-478E-ADAD-729487693CEE}|swmod\\algorythms.csproj|C:\\Data\\Repositories\\swmod\\swmod\\swmod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7093513A-1EB8-478E-ADAD-729487693CEE}|swmod\\algorythms.csproj|solutionrelative:swmod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HanoiGame.cs",
               "DocumentMoniker": "C:\\Data\\Repositories\\swmod\\swmod\\torensvanhanoiopdr1\\HanoiGame.cs",
               "RelativeDocumentMoniker": "torensvanhanoiopdr1\\HanoiGame.cs",
               "ToolTip": "C:\\Data\\Repositories\\swmod\\swmod\\torensvanhanoiopdr1\\HanoiGame.cs*",
               "RelativeToolTip": "torensvanhanoiopdr1\\HanoiGame.cs*",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwA0AAAA4AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T13:58:28.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TestRun.cs",
               "DocumentMoniker": "C:\\Data\\Repositories\\swmod\\swmod\\torensvanhanoiopdr1\\TestRun.cs",
               "RelativeDocumentMoniker": "torensvanhanoiopdr1\\TestRun.cs",
               "ToolTip": "C:\\Data\\Repositories\\swmod\\swmod\\torensvanhanoiopdr1\\TestRun.cs",
               "RelativeToolTip": "torensvanhanoiopdr1\\TestRun.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T13:55:08.784Z",
               "EditorCaption": ""
@@ -64,9 +60,9 @@
               "Title": "HanoiPole.cs",
               "DocumentMoniker": "C:\\Data\\Repositories\\swmod\\swmod\\torensvanhanoiopdr1\\HanoiPole.cs",
               "RelativeDocumentMoniker": "torensvanhanoiopdr1\\HanoiPole.cs",
-              "ToolTip": "C:\\Data\\Repositories\\swmod\\swmod\\torensvanhanoiopdr1\\HanoiPole.cs",
-              "RelativeToolTip": "torensvanhanoiopdr1\\HanoiPole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAfAAAA",
+              "ToolTip": "C:\\Data\\Repositories\\swmod\\swmod\\torensvanhanoiopdr1\\HanoiPole.cs*",
+              "RelativeToolTip": "torensvanhanoiopdr1\\HanoiPole.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T13:54:55.363Z",
               "EditorCaption": ""
@@ -79,22 +75,9 @@
               "RelativeDocumentMoniker": "torensvanhanoiopdr1\\HanoiDisc.cs",
               "ToolTip": "C:\\Data\\Repositories\\swmod\\swmod\\torensvanhanoiopdr1\\HanoiDisc.cs",
               "RelativeToolTip": "torensvanhanoiopdr1\\HanoiDisc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T18:03:45.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Data\\Repositories\\swmod\\swmod\\swmod\\Program.cs",
-              "RelativeDocumentMoniker": "swmod\\Program.cs",
-              "ToolTip": "C:\\Data\\Repositories\\swmod\\swmod\\swmod\\Program.cs",
-              "RelativeToolTip": "swmod\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T18:00:06.814Z",
               "EditorCaption": ""
             }
           ]

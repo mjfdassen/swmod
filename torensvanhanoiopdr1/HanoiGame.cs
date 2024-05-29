@@ -14,7 +14,6 @@ namespace torensvanhanoiopdr1
         HanoiPole rechterPole = new HanoiPole("rechts");
         public HanoiGame(int numberOfDiscs)
         {
-
             for (int i = 0; i < numberOfDiscs; i++) 
             {
                 int discnumber = numberOfDiscs - i;
