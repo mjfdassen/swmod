@@ -5,3 +5,10 @@ C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopd
 C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.csproj.CoreCompileInputs.cache
 C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.exe
 C:\Data\Repositories\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.pdb
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\torensvanhanoiopdr1\bin\Debug\torensvanhanoiopdr1.exe.config
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\torensvanhanoiopdr1\bin\Debug\torensvanhanoiopdr1.exe
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\torensvanhanoiopdr1\bin\Debug\torensvanhanoiopdr1.pdb
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.csproj.AssemblyReference.cache
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.csproj.CoreCompileInputs.cache
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.exe
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\torensvanhanoiopdr1\obj\Debug\torensvanhanoiopdr1.pdb

@@ -30,7 +30,9 @@ namespace torensvanhanoiopdr1
             Console.WriteLine("Game Created with " + numberOfDiscs + " discs");
             Console.WriteLine("This game requires " + numberOfMoves + " moves");
             printPoles();
-            solveManualFour()//solveIterative();
+            //solveManualFour()
+            //solveManualFive()
+            solveIterative();
         }
         public void printPoles()
         {
@@ -149,9 +151,9 @@ namespace torensvanhanoiopdr1
                 poleTwo.putDown(poleOne.pickUp());
             }
             //printcommands
-            printPoles();
-            Console.WriteLine("The number of moves to go: " + numberOfMoves);
-            Console.WriteLine("===========================================================");
+            //printPoles();
+            //Console.WriteLine("The number of moves to go: " + numberOfMoves);
+            //Console.WriteLine("===========================================================");
         }
 
         public void solveIterative()
@@ -160,7 +162,7 @@ namespace torensvanhanoiopdr1
             {
                 if (numberOfMoves > 0)
                 {
-                    move  /(linkerPole, middelPole);
+                    move(linkerPole, middelPole);
                     numberOfMoves--;
                 }
                 if (numberOfMoves > 0)
