@@ -1,0 +1,15 @@
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\bin\Debug\net8.0\despat_facade.exe
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\bin\Debug\net8.0\despat_facade.deps.json
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\bin\Debug\net8.0\despat_facade.runtimeconfig.json
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\bin\Debug\net8.0\despat_facade.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\bin\Debug\net8.0\despat_facade.pdb
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\despat_facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\despat_facade.AssemblyInfoInputs.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\despat_facade.AssemblyInfo.cs
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\despat_facade.csproj.CoreCompileInputs.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\despat_facade.sourcelink.json
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\despat_facade.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\refint\despat_facade.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\despat_facade.pdb
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\despat_facade.genruntimeconfig.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_facade\obj\Debug\net8.0\ref\despat_facade.dll

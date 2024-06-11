@@ -1,0 +1,15 @@
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.exe
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.deps.json
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.runtimeconfig.json
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.pdb
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.AssemblyInfoInputs.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.AssemblyInfo.cs
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.csproj.CoreCompileInputs.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.sourcelink.json
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\refint\despat_adapter.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.pdb
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.genruntimeconfig.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\ref\despat_adapter.dll

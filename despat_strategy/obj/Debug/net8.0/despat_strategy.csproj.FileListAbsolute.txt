@@ -1,0 +1,15 @@
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.exe
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.deps.json
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.runtimeconfig.json
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.pdb
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.AssemblyInfoInputs.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.AssemblyInfo.cs
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.csproj.CoreCompileInputs.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.sourcelink.json
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\refint\despat_strategy.dll
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.pdb
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.genruntimeconfig.cache
+D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\ref\despat_strategy.dll

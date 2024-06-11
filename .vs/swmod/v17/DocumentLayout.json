@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\",
+  "WorkspaceRootPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\torensvanhanoiopdr1\\hanoigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{932BE3C3-6AD2-4D87-B18F-934611578579}|torensvanhanoiopdr1\\torensvanhanoiopdr1.csproj|solutionrelative:torensvanhanoiopdr1\\hanoigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{868C8B50-A66B-408D-AD04-4ECC9C7EC722}|despat_strategy\\despat_strategy.csproj|d:\\my repositories\\visualstudio\\c#\\swmod\\despat_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868C8B50-A66B-408D-AD04-4ECC9C7EC722}|despat_strategy\\despat_strategy.csproj|solutionrelative:despat_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93764000-5098-472E-96BC-9D062B709443}|despat_adapter\\despat_adapter.csproj|d:\\my repositories\\visualstudio\\c#\\swmod\\despat_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93764000-5098-472E-96BC-9D062B709443}|despat_adapter\\despat_adapter.csproj|solutionrelative:despat_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HanoiGame.cs",
-              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\torensvanhanoiopdr1\\HanoiGame.cs",
-              "RelativeDocumentMoniker": "torensvanhanoiopdr1\\HanoiGame.cs",
-              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\torensvanhanoiopdr1\\HanoiGame.cs",
-              "RelativeToolTip": "torensvanhanoiopdr1\\HanoiGame.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAuwIwAAAANAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_strategy\\Program.cs",
+              "RelativeDocumentMoniker": "despat_strategy\\Program.cs",
+              "ToolTip": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_strategy\\Program.cs",
+              "RelativeToolTip": "despat_strategy\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:52:52.76Z",
+              "WhenOpened": "2024-06-11T17:32:02.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_adapter\\Program.cs",
+              "RelativeDocumentMoniker": "despat_adapter\\Program.cs",
+              "ToolTip": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_adapter\\Program.cs",
+              "RelativeToolTip": "despat_adapter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:14:33.605Z",
               "EditorCaption": ""
             }
           ]

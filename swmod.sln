@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorythms", "swmod\algoryt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "torensvanhanoiopdr1", "torensvanhanoiopdr1\torensvanhanoiopdr1.csproj", "{932BE3C3-6AD2-4D87-B18F-934611578579}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "despat_facade", "despat_facade\despat_facade.csproj", "{8697CD5E-2A1F-4E65-B1D5-F0FAE10A47C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "despat_adapter", "despat_adapter\despat_adapter.csproj", "{93764000-5098-472E-96BC-9D062B709443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "despat_strategy", "despat_strategy\despat_strategy.csproj", "{868C8B50-A66B-408D-AD04-4ECC9C7EC722}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{932BE3C3-6AD2-4D87-B18F-934611578579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{932BE3C3-6AD2-4D87-B18F-934611578579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{932BE3C3-6AD2-4D87-B18F-934611578579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8697CD5E-2A1F-4E65-B1D5-F0FAE10A47C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8697CD5E-2A1F-4E65-B1D5-F0FAE10A47C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8697CD5E-2A1F-4E65-B1D5-F0FAE10A47C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8697CD5E-2A1F-4E65-B1D5-F0FAE10A47C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93764000-5098-472E-96BC-9D062B709443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93764000-5098-472E-96BC-9D062B709443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93764000-5098-472E-96BC-9D062B709443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93764000-5098-472E-96BC-9D062B709443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868C8B50-A66B-408D-AD04-4ECC9C7EC722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868C8B50-A66B-408D-AD04-4ECC9C7EC722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868C8B50-A66B-408D-AD04-4ECC9C7EC722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868C8B50-A66B-408D-AD04-4ECC9C7EC722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
