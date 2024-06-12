@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("despat_facade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7017c83be64343f3686f97452dbffb5481014b51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed66b3e27c1c19751cac3e89d551bd86220d8ad3")]
 [assembly: System.Reflection.AssemblyProductAttribute("despat_facade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("despat_facade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
