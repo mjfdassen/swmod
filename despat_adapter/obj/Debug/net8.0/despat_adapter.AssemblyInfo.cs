@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("despat_adapter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed66b3e27c1c19751cac3e89d551bd86220d8ad3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69fa6c01afc639c8bb2c01d109fce1824b5736d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("despat_adapter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("despat_adapter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

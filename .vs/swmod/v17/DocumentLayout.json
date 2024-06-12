@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\",
+  "WorkspaceRootPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{868C8B50-A66B-408D-AD04-4ECC9C7EC722}|despat_strategy\\despat_strategy.csproj|d:\\my repositories\\visualstudio\\c#\\swmod\\despat_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{868C8B50-A66B-408D-AD04-4ECC9C7EC722}|despat_strategy\\despat_strategy.csproj|solutionrelative:despat_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\omzettinguml\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|solutionrelative:omzettinguml\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93764000-5098-472E-96BC-9D062B709443}|despat_adapter\\despat_adapter.csproj|d:\\my repositories\\visualstudio\\c#\\swmod\\despat_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93764000-5098-472E-96BC-9D062B709443}|despat_adapter\\despat_adapter.csproj|solutionrelative:despat_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\omzettinguml\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|solutionrelative:omzettinguml\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\omzettinguml\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|solutionrelative:omzettinguml\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\omzettinguml\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|solutionrelative:omzettinguml\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\omzettinguml\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|solutionrelative:omzettinguml\\check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\omzettinguml\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|solutionrelative:omzettinguml\\credit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\omzettinguml\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|solutionrelative:omzettinguml\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|c:\\users\\mjfdassen\\onedrive - zuyd hogeschool\\zuyd\\swmod\\swmod\\omzettinguml\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B17396-3430-4C92-9BC6-DD531DE06035}|omzettinguml\\omzettinguml.csproj|solutionrelative:omzettinguml\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_strategy\\Program.cs",
-              "RelativeDocumentMoniker": "despat_strategy\\Program.cs",
-              "ToolTip": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_strategy\\Program.cs",
-              "RelativeToolTip": "despat_strategy\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAADAAAA",
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Item.cs",
+              "RelativeDocumentMoniker": "omzettinguml\\Item.cs",
+              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Item.cs",
+              "RelativeToolTip": "omzettinguml\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T17:32:02.143Z",
+              "WhenOpened": "2024-06-12T15:51:00.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Credit.cs",
+              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Credit.cs",
+              "RelativeDocumentMoniker": "omzettinguml\\Credit.cs",
+              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Credit.cs",
+              "RelativeToolTip": "omzettinguml\\Credit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:40:43.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Check.cs",
+              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Check.cs",
+              "RelativeDocumentMoniker": "omzettinguml\\Check.cs",
+              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Check.cs",
+              "RelativeToolTip": "omzettinguml\\Check.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:39:02.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cash.cs",
+              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Cash.cs",
+              "RelativeDocumentMoniker": "omzettinguml\\Cash.cs",
+              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Cash.cs",
+              "RelativeToolTip": "omzettinguml\\Cash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:38:49.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Payment.cs",
+              "RelativeDocumentMoniker": "omzettinguml\\Payment.cs",
+              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Payment.cs",
+              "RelativeToolTip": "omzettinguml\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:36:36.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_adapter\\Program.cs",
-              "RelativeDocumentMoniker": "despat_adapter\\Program.cs",
-              "ToolTip": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_adapter\\Program.cs",
-              "RelativeToolTip": "despat_adapter\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAABAAAA",
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "omzettinguml\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\OrderDetail.cs",
+              "RelativeToolTip": "omzettinguml\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:14:33.605Z",
+              "WhenOpened": "2024-06-12T15:36:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Order.cs",
+              "RelativeDocumentMoniker": "omzettinguml\\Order.cs",
+              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Order.cs",
+              "RelativeToolTip": "omzettinguml\\Order.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:36:19.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Customer.cs",
+              "RelativeDocumentMoniker": "omzettinguml\\Customer.cs",
+              "ToolTip": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\Customer.cs",
+              "RelativeToolTip": "omzettinguml\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:36:10.342Z",
               "EditorCaption": ""
             }
           ]

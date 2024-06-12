@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\omzettinguml.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\omzettinguml.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\omzettinguml.csproj",
+        "projectName": "omzettinguml",
+        "projectPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\omzettinguml.csproj",
+        "packagesPath": "C:\\Users\\mjfdassen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mjfdassen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

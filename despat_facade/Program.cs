@@ -65,8 +65,9 @@ class RobotFacade
     {
         robotBody = new RobotBody(robotType);
         robotColor = new RobotColor(color);
+        ConstructRobot();
     }
-    public void ConstructRobot()
+    private void ConstructRobot()
     {
         Console.WriteLine("Robot creation through facade starts...");
         robotBody.MakeRobotBody();
@@ -91,13 +92,14 @@ public class TestRun
         robotColor.SetColor();
         //with facade: make a green Milano
         RobotFacade facade1 = new RobotFacade("Milano", "green");
-        facade1.ConstructRobot();
+        //facade1.ConstructRobot();
         //with facade: make a steel-colored Robonaut
         RobotFacade facade2 = new RobotFacade("Robonaut");
-        facade2.ConstructRobot();
+        //facade2.ConstructRobot();
         //with facade: make a steel-colored Johnny 5
         RobotFacade facade3 = new RobotFacade("Johnny 5");
-        facade3.ConstructRobot();
+        facade3.DestroyRobot();
+        //facade3.ConstructRobot();
         //Console.ReadKey();
     }
 }

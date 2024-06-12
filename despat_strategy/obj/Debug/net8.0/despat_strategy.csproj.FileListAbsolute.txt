@@ -13,3 +13,18 @@ D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\refint
 D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.pdb
 D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.genruntimeconfig.cache
 D:\My Repositories\visualstudio\c#\swmod\despat_strategy\obj\Debug\net8.0\ref\despat_strategy.dll
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.exe
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.deps.json
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.runtimeconfig.json
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.dll
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\bin\Debug\net8.0\despat_strategy.pdb
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.AssemblyInfoInputs.cache
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.AssemblyInfo.cs
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.csproj.CoreCompileInputs.cache
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.sourcelink.json
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.dll
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\refint\despat_strategy.dll
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.pdb
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\despat_strategy.genruntimeconfig.cache
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_strategy\obj\Debug\net8.0\ref\despat_strategy.dll

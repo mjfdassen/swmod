@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "despat_adapter", "despat_ad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "despat_strategy", "despat_strategy\despat_strategy.csproj", "{868C8B50-A66B-408D-AD04-4ECC9C7EC722}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "omzettinguml", "omzettinguml\omzettinguml.csproj", "{18B17396-3430-4C92-9BC6-DD531DE06035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{868C8B50-A66B-408D-AD04-4ECC9C7EC722}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{868C8B50-A66B-408D-AD04-4ECC9C7EC722}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{868C8B50-A66B-408D-AD04-4ECC9C7EC722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B17396-3430-4C92-9BC6-DD531DE06035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B17396-3430-4C92-9BC6-DD531DE06035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B17396-3430-4C92-9BC6-DD531DE06035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B17396-3430-4C92-9BC6-DD531DE06035}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
