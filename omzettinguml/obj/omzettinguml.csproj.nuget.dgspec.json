@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\omzettinguml.csproj": {}
+    "D:\\My Repositories\\visualstudio\\c#\\swmod\\omzettinguml\\omzettinguml.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\omzettinguml.csproj": {
+    "D:\\My Repositories\\visualstudio\\c#\\swmod\\omzettinguml\\omzettinguml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\omzettinguml.csproj",
+        "projectUniqueName": "D:\\My Repositories\\visualstudio\\c#\\swmod\\omzettinguml\\omzettinguml.csproj",
         "projectName": "omzettinguml",
-        "projectPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\omzettinguml.csproj",
+        "projectPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\omzettinguml\\omzettinguml.csproj",
         "packagesPath": "C:\\Users\\mjfdassen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\omzettinguml\\obj\\",
+        "outputPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\omzettinguml\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mjfdassen\\AppData\\Roaming\\NuGet\\NuGet.Config",
