@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_strategy\\despat_strategy.csproj",
+      "projectUniqueName": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_strategy\\despat_strategy.csproj",
       "projectName": "despat_strategy",
-      "projectPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_strategy\\despat_strategy.csproj",
+      "projectPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_strategy\\despat_strategy.csproj",
       "packagesPath": "C:\\Users\\mjfdassen\\.nuget\\packages\\",
-      "outputPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_strategy\\obj\\",
+      "outputPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_strategy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mjfdassen\\AppData\\Roaming\\NuGet\\NuGet.Config",

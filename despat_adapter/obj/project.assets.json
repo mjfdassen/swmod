@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_adapter\\despat_adapter.csproj",
+      "projectUniqueName": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_adapter\\despat_adapter.csproj",
       "projectName": "despat_adapter",
-      "projectPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_adapter\\despat_adapter.csproj",
+      "projectPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_adapter\\despat_adapter.csproj",
       "packagesPath": "C:\\Users\\mjfdassen\\.nuget\\packages\\",
-      "outputPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_adapter\\obj\\",
+      "outputPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_adapter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mjfdassen\\AppData\\Roaming\\NuGet\\NuGet.Config",

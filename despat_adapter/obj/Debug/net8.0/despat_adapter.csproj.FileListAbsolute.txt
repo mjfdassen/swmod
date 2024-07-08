@@ -13,3 +13,18 @@ D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\refint\
 D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.pdb
 D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.genruntimeconfig.cache
 D:\My Repositories\visualstudio\c#\swmod\despat_adapter\obj\Debug\net8.0\ref\despat_adapter.dll
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.exe
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.deps.json
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.runtimeconfig.json
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.dll
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\bin\Debug\net8.0\despat_adapter.pdb
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.AssemblyInfoInputs.cache
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.AssemblyInfo.cs
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.csproj.CoreCompileInputs.cache
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.sourcelink.json
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.dll
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\refint\despat_adapter.dll
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.pdb
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\despat_adapter.genruntimeconfig.cache
+C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_adapter\obj\Debug\net8.0\ref\despat_adapter.dll

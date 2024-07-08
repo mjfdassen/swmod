@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_facade\\despat_facade.csproj",
+      "projectUniqueName": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_facade\\despat_facade.csproj",
       "projectName": "despat_facade",
-      "projectPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_facade\\despat_facade.csproj",
+      "projectPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_facade\\despat_facade.csproj",
       "packagesPath": "C:\\Users\\mjfdassen\\.nuget\\packages\\",
-      "outputPath": "D:\\My Repositories\\visualstudio\\c#\\swmod\\despat_facade\\obj\\",
+      "outputPath": "C:\\Users\\mjfdassen\\OneDrive - Zuyd Hogeschool\\Zuyd\\swmod\\swmod\\despat_facade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mjfdassen\\AppData\\Roaming\\NuGet\\NuGet.Config",

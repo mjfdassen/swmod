@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = despat_facade
-build_property.ProjectDir = D:\My Repositories\visualstudio\c#\swmod\despat_facade\
+build_property.ProjectDir = C:\Users\mjfdassen\OneDrive - Zuyd Hogeschool\Zuyd\swmod\swmod\despat_facade\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
